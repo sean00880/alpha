@@ -1,0 +1,57 @@
+{
+  "id": 1,
+  "title": { "small": "Social Media Marketing", "big": "Facebook Campaign for Site Dominion" },
+  "clientURLLink": "#",
+  "projectHeaderImage": "/img/portfolio/project2/bg.jpg",
+  "videoLink": "https://vimeo.com/127203262",
+  "clientURLName": "https://www.sitedominion.com/",
+  "date": "August 21 2022",
+  "categories": [
+    {
+      "id": 1,
+      "name": "Digital Marketing",
+      "link": "#"
+    },
+    {
+      "id": 2,
+      "name": "Facebook",
+      "link": "#"
+    }
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "name": "Ads",
+      "link": "#"
+    },
+    {
+      "id": 2,
+      "name": "CPC Optimization",
+      "link": "#"
+    }
+  ],
+  "intro": {
+    "content": "We were thrilled to have the opportunity to work with Site Dominion and assist them with their Facebook marketing strategy. Our team of experts carefully analyzed their target audience and current social media presence to identify areas for improvement and growth.",
+    "spmList": [
+      {
+        "id": 1,
+        "name": "Initially, we improved their page by altering their cover photo and profile picture to reflect their brand. We also looked over the material they already had and noted opportunities for improvement."
+      },
+      {
+        "id": 2,
+        "name": "Then, in order to enhance engagement with their target audience, we devised a posting timetable and a content calendar. Our team took great care in selecting and creating high-quality material that was appropriate for their target audience and in line with their corporate goals."
+      },
+      {
+        "id": 3,
+        "name": "To increase their reach and increase traffic to their website, we also developed Facebook advertising campaigns. To promote their goods and services and build brand awareness, our team used a range of ad types, such as carousel and video advertising."
+      }
+    ]
+  },
+  "gallery": [
+    "/img/portfolio/project2/5.jpg",
+    "/img/portfolio/project2/6.jpg"
+  ],
+  "description": {
+    "content": "Site Dominion's Facebook analytics significantly improved as a result of our efforts. They noticed an increase in website traffic, post engagement, and page likes. Also, they were able to grow their customer base and produce additional leads for their company."
+  }
+}

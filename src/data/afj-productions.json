@@ -1,0 +1,62 @@
+{
+  "id": 1,
+  "title": { "small": "Web Design", "big": "Website Design for AFJ Productions" },
+  "clientURLLink": "#",
+  "projectHeaderImage": "/img/portfolio/project2/bg.jpg",
+  "videoLink": "https://vimeo.com/127203262",
+  "clientURLName": "https://afj-productions.vercel.app/",
+  "date": "August 21 2022",
+  "categories": [
+    {
+      "id": 1,
+      "name": "Web Design",
+      "link": "#"
+    },
+    {
+      "id": 2,
+      "name": "Next JS",
+      "link": "#"
+    }
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "name": "Single Page Website",
+      "link": "#"
+    },
+    {
+      "id": 2,
+      "name": "Responsive",
+      "link": "#"
+    },
+    {
+      "id": 3,
+      "name": "Modern",
+      "link": "#"
+    }
+  ],
+  "intro": {
+    "content": "A Film Junkie Productions and our team of web developers collaborated together to create a website that was not only aesthetically pleasing but also useful and user-friendly. React is a well-known JavaScript toolkit for creating user interfaces, and we decided to utilize it to make the website responsive and simple to use.",
+    "spmList": [
+      {
+        "id": 1,
+        "name": "Technology Stack: To ensure that the website was fast and reliable, we utilized Vercel, a cloud platform for serverless deployment, and Github Pages, a static site hosting service. These technologies allowed us to deploy the website quickly and easily, while also ensuring that it was scalable and could handle large amounts of traffic."
+      },
+      {
+        "id": 2,
+        "name": "Key Features: Use of Next.JS, a well-liked React framework that permits server-side rendering and automatic code splitting, is one of the website's primary features. This made it possible for us to create a dynamic website that is optimized for both performance and SEO, as well as for managing and updating content."
+      },
+      {
+        "id": 3,
+        "name": "Lead Generation: Finally, to help A Film Junkie Productions generate leads and grow their business, we integrated Email JS, a powerful email automation platform. This allows visitors to the website to easily submit inquiries and contact the studio, while also enabling A Film Junkie Productions to manage and track leads more effectively."
+      }
+    ]
+  },
+  "gallery": [
+    "/img/portfolio/project2/3.jpg",
+    "/img/portfolio/project2/4.jpg"
+  ],
+  "description": {
+    "content": "Our business is pleased to have worked with A Film Junkie Productions to construct their new corporate website using the most up-to-date technologies, such as React, Vercel, Github Pages, Next.JS, and Email JS. We are sure that A Film Junkie Productions' new website will aid in business expansion and goal achievement."
+  }
+}

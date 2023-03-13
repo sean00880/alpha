@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "Boost your brand's online presence with our expert social media solutions.",
+        "content": "Let us assist you in reaching out to and engaging your audience on a whole new level!",
+        "image": "/img/slid/02.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Revolutionize Your Digital Marketing with Our Agency",
+        "content": "Our company assists companies of all sizes in achieving social media success with our tried-and-true strategies and innovative techniques.",
+        "image": "/img/slid/03.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Stay ahead of the competition",
+        "content": "We stay up-to-date on the latest trends and techniques, and we use our knowledge to develop strategies that will give you a competitive edge.c",
+        "image": "/img/slid/01.jpg"
+    }
+]

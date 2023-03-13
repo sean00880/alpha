@@ -1,0 +1,65 @@
+{
+  "id": 1,
+  "title": { "small": "Graphic Design", "big": "Logo Design for Decoded Web" },
+  "clientURLLink": "#",
+  "projectHeaderImage": "/img/portfolio/project2/bg.jpg",
+  "videoLink": "https://vimeo.com/127203262",
+  "clientURLName": "www.decodedweb.us",
+  "date": "August 7 2022",
+  "categories": [
+    {
+      "id": 1,
+      "name": "Logo Design",
+      "link": "#"
+    },
+    {
+      "id": 2,
+      "name": "Photoshop",
+      "link": "#"
+    }
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "name": "Minimal",
+      "link": "#"
+    },
+    {
+      "id": 2,
+      "name": "Modern",
+      "link": "#"
+    },
+    {
+      "id": 3,
+      "name": "Dark",
+      "link": "#"
+    }
+  ],
+  "intro": {
+    "content": "The leadership team of our business worked together with a talented graphic designer to develop the Decoded Web logo. Decoded Web's brand identity, including its values, objective, and target market, were thoroughly understood from the outset of the process. Together, the team created a design brief outlining the specifications for the logo, including the ideal appearance, color scheme, font, and imagery.",
+    "spmList": [
+      {
+        "id": 1,
+        "name": "Identity: Decoded Web's identity as a tech-focused media organization with a heavy emphasis on data-driven analysis and reporting needed to be correctly reflected in the logo."
+      },
+      {
+        "id": 2,
+        "name": "Target Audience: The company's target audience, which is mostly made up of tech-savvy individuals and professionals in the tech field, needed to be attracted to the logo."
+      },
+      {
+        "id": 31,
+        "name": "Simplicity: To be memorable and stand out from rivals, the logo needs to be straightforward and simple to recognize."
+      },
+      {
+        "id": 4,
+        "name": "Color Scheme: The color scheme required to be visually appealing and attention-grabbing while also coordinating with the brand's values and visual identity."
+      }
+    ]
+  },
+  "gallery": [
+    "/img/portfolio/project2/1.jpg"
+  ],
+  "description": {
+    "content": "The creation of Decoded Web's logo was a collaborative effort that focused on understanding the brand and creating a design that effectively communicated its values and mission. The final result is a distinctive and memorable logo that serves as a powerful visual representation of the Decoded Web brand."
+  }
+}
