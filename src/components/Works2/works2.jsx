@@ -195,14 +195,14 @@ const Works2 = ({ sliderRef }) => {
                           <div className="cont bgbox">
                             <h6>
                               <Link
-                                href={`/works2/works2-dark`}
+                                href={`/project-details2/horizon-infinite`}
                               >
                                 <a>Brand Redesign</a>
                               </Link>
                             </h6>
                             <h4>
                               <Link
-                                href={`/project-details2/project-details2-dark`}
+                                href={`/project-details2/horizon-infinite`}
                               >
                                 <a>Website & Logo Design for Horizon Infinite</a>
                               </Link>

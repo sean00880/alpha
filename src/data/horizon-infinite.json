@@ -1,0 +1,63 @@
+{
+    "id": 1,
+    "title": { "small": "Brand Redesign", "big": "Website and Logo Design for Horizon Infinite" },
+    "clientURLLink": "#",
+    "projectHeaderImage": "/img/portfolio/project2/bg.jpg",
+    "videoLink": "https://vimeo.com/127203262",
+    "clientURLName": "https://rank-crate.vercel.app/",
+    "date": "August 21 2022",
+    "categories": [
+      {
+        "id": 1,
+        "name": "Web Design",
+        "link": "#"
+      },
+      {
+        "id": 2,
+        "name": "Next JS",
+        "link": "#"
+      }
+    ],
+    "tags": [
+      {
+        "id": 1,
+        "name": "Single Page Website",
+        "link": "#"
+      },
+      {
+        "id": 2,
+        "name": "Responsive",
+        "link": "#"
+      },
+      {
+        "id": 3,
+        "name": "Modern",
+        "link": "#"
+      }
+    ],
+    "intro": {
+      "content": "The website was to serve as a hub for the community, where players could learn about the server, download custom game modifications, connect with other players, and get support.",
+      "spmList": [
+        {
+          "id": 1,
+          "name": "To begin the design process, we conducted extensive research into the gaming industry, as well as the target audience for Horizon Infinite. This allowed the agency to identify the key features and design elements that would appeal to the gaming community, such as intuitive navigation, high-quality graphics, and a streamlined user experience."
+        },
+        {
+          "id": 2,
+          "name": "The agency then designed the website's layout and navigation, using a modern and immersive design that reflected the gaming experience that Horizon Infinite offered. The website was optimized for both desktop and mobile devices, ensuring that players could easily access the site from anywhere."
+        },
+        {
+          "id": 3,
+          "name": "We chose NextJs as the technology for the website, as it offered the flexibility, customization options, and ease of use that were necessary for the project. The agency then worked with the client to create a wireframe and sitemap that would guide the design process."
+        }
+      ]
+    },
+    "gallery": [
+      "/img/portfolio/project2/3.jpg",
+      "/img/portfolio/project2/4.jpg"
+    ],
+    "description": {
+      "content": "Throughout the design process, we worked closely with the client to ensure that the website met their needs and exceeded their expectations. The result was a stunning and immersive website that served as the hub for the Horizon Infinite gaming community, and helped to attract new players to the server."
+    }
+  }
+  
