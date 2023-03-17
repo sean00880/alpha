@@ -23,8 +23,7 @@ const Services2 = () => {
               <span className="icon pe-7s-gleam"></span>
               <h6>Digital Marketing</h6>
               <p>
-                Tempore corrupti temporibus fuga earum asperiores fugit
-                laudantium.
+              Our digital marketing service helps you increase your online visibility, reach your target audience, and drive more traffic to your website.
               </p>
             </div>
           </div>
@@ -33,9 +32,8 @@ const Services2 = () => {
               <span className="icon pe-7s-phone"></span>
               <h6>Web &amp; App Development</h6>
               <p>
-                Tempore corrupti temporibus fuga earum asperiores fugit
-                laudantium.
-              </p>
+              Our web development service builds custom websites that are responsive, user-friendly, and optimized for search engines. We use the latest technologies to deliver fast, secure, and reliable websites.
+             </p>
             </div>
           </div>
           <div className="col-lg-4 wow fadeInUp" data-wow-delay=".9s">
@@ -43,8 +41,7 @@ const Services2 = () => {
               <span className="icon pe-7s-magic-wand"></span>
               <h6>Graphic Design</h6>
               <p>
-                Tempore corrupti temporibus fuga earum asperiores fugit
-                laudantium.
+              Our graphic design service creates visually appealing designs that communicate your brand's message effectively. From logos to brochures, we can help you with all your design needs.
               </p>
             </div>
           </div>

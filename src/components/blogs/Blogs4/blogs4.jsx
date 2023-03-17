@@ -224,8 +224,8 @@ const Blogs4 = () => {
                         </div>
                         <div className="title">
                           <h4>
-                            <Link href="/blog-details/blog-details-dark">
-                              <a>List of The Best Investment Projects</a>
+                            <Link href="/blog-details/keyword-research-seo-marketing">
+                              <a>The Importance of Keyword Research in SEO</a>
                             </Link>
                           </h4>
                         </div>
