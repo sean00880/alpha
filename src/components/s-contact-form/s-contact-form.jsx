@@ -23,7 +23,7 @@ const SContactForm = ({ noLine }) => {
                 Contact Us
               </h6>
               <h3 className="wow color-font">
-                Let’s Get in Touch And Make Magic Together.
+                Let’s Get in Touch And Transform Your Organization's Online Presence.
               </h3>
             </div>
           </div>

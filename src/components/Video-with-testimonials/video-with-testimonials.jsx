@@ -63,7 +63,7 @@ const VideoWithTestimonials = () => {
                     Our Clients
                   </h6>
                   <h4 className="wow fadeInLeft" data-wow-delay=".5s">
-                    What Client&apos;s Say?
+                    What Do Clients Say?
                   </h4>
                 </div>
                 <Slider
@@ -73,9 +73,7 @@ const VideoWithTestimonials = () => {
                 >
                   <div className="item">
                     <p>
-                      Nulla metus metus ullamcorper vel tincidunt sed euismod
-                      nibh volutpat velit class aptent taciti sociosqu ad
-                      litora.
+                    I recently worked with Metatronics on a project for my business, and I have to say, I was thoroughly impressed with their level of expertise and dedication to helping me achieve my marketing goals.
                     </p>
                     <div className="info">
                       <div className="img">

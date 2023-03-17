@@ -189,16 +189,14 @@ const Blogs4 = () => {
                         </div>
                         <div className="title">
                           <h4>
-                            <Link href="/blog-details/blog-details-dark">
-                              Create The Lifestyle You Really Desire This World
+                            <Link href="/blog-details/marketing-in-2023">
+                              Marketing In 2023
                             </Link>
                           </h4>
                         </div>
                         <div className="text">
                           <p>
-                            Success is no accident. It is hard work,
-                            perseverance, learning, studying, sacrifice and most
-                            of all, love of what you are doing.
+                          Let's discuss what marketing looks like in the year 2023.
                           </p>
                         </div>
                         <div className="more">
@@ -264,7 +262,7 @@ const Blogs4 = () => {
                         <div className="title">
                           <h4>
                             <Link href="/blog-details/blog-details-dark">
-                              <a>World Best Business Website Company</a>
+                              <a>World's Finest Business Website Company</a>
                             </Link>
                           </h4>
                         </div>

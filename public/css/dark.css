@@ -7412,7 +7412,8 @@ span:hover {
 }
 
 .blog-pg.single .post .content ul li {
-  margin: 10px 0;
+  margin: 20px 0;
+  line-height: 2;
 }
 
 .blog-pg.single .post .content ul li span {
