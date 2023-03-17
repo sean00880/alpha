@@ -231,9 +231,7 @@ const Blogs4 = () => {
                         </div>
                         <div className="text">
                           <p>
-                            Success is no accident. It is hard work,
-                            perseverance, learning, studying, sacrifice and most
-                            of all, love of what you are doing.
+                          As we head into 2023, it's clear that marketing strategies and tactics continue to evolve at an incredible pace. In order to stay competitive and effectively reach consumers, businesses will need to stay on top of the latest trends and technologies...
                           </p>
                         </div>
                         <div className="more">
@@ -261,16 +259,14 @@ const Blogs4 = () => {
                         </div>
                         <div className="title">
                           <h4>
-                            <Link href="/blog-details/blog-details-dark">
-                              <a>World's Finest Business Website Company</a>
+                            <Link href="/blog-details/human-vs-ai-written-blogs">
+                              <a>Human vs. AI Written Blogs</a>
                             </Link>
                           </h4>
                         </div>
                         <div className="text">
                           <p>
-                            Success is no accident. It is hard work,
-                            perseverance, learning, studying, sacrifice and most
-                            of all, love of what you are doing.
+                          Human-authored blogs are written by people who develop their own ideas, creativity, and writing abilities. Researching, planning, and using language to convey information and emotion are all parts of this process...
                           </p>
                         </div>
                         <div className="more">

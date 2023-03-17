@@ -17,7 +17,7 @@ const Numbers2 = () => {
                 <span className="icon pe-7s-smile"></span>
                 <h3 className="custom-font">
                   &nbsp;
-                  <CountUp redraw={true} end={2400} duration="3">
+                  <CountUp redraw={true} end={120} duration="3">
                     {({ countUpRef, start }) => (
                       <VisibilitySensor onChange={start} delayedCall>
                         <span className="count" ref={countUpRef} />
@@ -37,7 +37,7 @@ const Numbers2 = () => {
                 <span className="icon pe-7s-portfolio"></span>
                 <h3 className="custom-font">
                   &nbsp;
-                  <CountUp redraw={true} end={133} duration="3">
+                  <CountUp redraw={true} end={123} duration="3">
                     {({ countUpRef, start }) => (
                       <VisibilitySensor onChange={start} delayedCall>
                         <span className="count" ref={countUpRef} />
@@ -47,7 +47,7 @@ const Numbers2 = () => {
                 </h3>
                 <Split>
                   <p className="wow txt words chars splitting " data-splitting>
-                    Compleate Projects
+                    Completed Projects
                   </p>
                 </Split>
               </div>
@@ -58,7 +58,7 @@ const Numbers2 = () => {
                 <span className="icon pe-7s-medal"></span>
                 <h3 className="custom-font">
                   &nbsp;
-                  <CountUp redraw={true} end={46} duration="3">
+                  <CountUp redraw={true} end={9} duration="3">
                     {({ countUpRef, start }) => (
                       <VisibilitySensor onChange={start} delayedCall>
                         <span className="count" ref={countUpRef} />
@@ -68,7 +68,7 @@ const Numbers2 = () => {
                 </h3>
                 <Split>
                   <p className="wow txt words chars splitting" data-splitting>
-                    Award Win
+                    Awards Won
                   </p>
                 </Split>
               </div>
