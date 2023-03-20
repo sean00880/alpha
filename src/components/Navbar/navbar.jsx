@@ -14,7 +14,7 @@ const Navbar = ({ lr, nr, theme }) => {
     >
       <div className="container">
         <Link href="/">
-          <a className="logo">
+          <a className="logo" style={{margin:"1vh",border:"1px solid"}}>
             {theme ? (
               theme === "themeL" ? (
                 <img ref={lr} src={appData.darkLogo} alt="logo" />

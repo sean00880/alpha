@@ -78,7 +78,7 @@ const Demos = () => {
         .masonery .item-img {
           padding: 5px 15px 20px;
           border-radius: 10px;
-          background: #18191d;
+          background: #000000;
           position: relative;
         }
 
